@@ -1,4 +1,4 @@
-#  TitleAbout this project
+#  About this project
 
 Developed by Rodrigo Bruner for Mobile Application Developement - IOS Course
 
